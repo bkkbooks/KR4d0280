@@ -910,6 +910,7 @@ markers:
       ', id: KR4d0280_WYG_022-bkkkrnewl221}
   - {type: line-break, offset: 3781, content: '', id: KR4d0280_WYG_022-13a06}
   - {type: punctuation, offset: 3800, content: (, id: KR4d0280_WYG_022-bkkpn1}
+  - {type: voice, offset: 3800, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3801, content: /, id: KR4d0280_WYG_022-bkkpn2}
   - {type: punctuation, offset: 3801, content: ), id: KR4d0280_WYG_022-bkkpn3}
   - {type: 'kr:newline', offset: 3801, content: '
@@ -917,10 +918,12 @@ markers:
       ', id: KR4d0280_WYG_022-bkkkrnewl222}
   - {type: line-break, offset: 3801, content: '', id: KR4d0280_WYG_022-13a07}
   - {type: punctuation, offset: 3805, content: (, id: KR4d0280_WYG_022-bkkpn4}
+  - {type: voice, offset: 3805, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3806, content: /, id: KR4d0280_WYG_022-bkkpn5}
   - {type: punctuation, offset: 3806, content: ), id: KR4d0280_WYG_022-bkkpn6}
   - {type: indent, offset: 3806, content: 　　　　　　　, id: KR4d0280_WYG_022-bkkind19}
   - {type: punctuation, offset: 3810, content: (, id: KR4d0280_WYG_022-bkkpn7}
+  - {type: voice, offset: 3810, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3811, content: /, id: KR4d0280_WYG_022-bkkpn8}
   - {type: punctuation, offset: 3811, content: ), id: KR4d0280_WYG_022-bkkpn9}
   - {type: indent, offset: 3811, content: 　, id: KR4d0280_WYG_022-bkkind20}
@@ -1054,6 +1057,7 @@ markers:
   - {type: line-break, offset: 4374, content: '', id: KR4d0280_WYG_022-15a03}
   - {type: indent, offset: 4374, content: 　　　, id: KR4d0280_WYG_022-bkkind21}
   - {type: punctuation, offset: 4378, content: (, id: KR4d0280_WYG_022-bkkpn10}
+  - {type: voice, offset: 4378, length: 19, name: note, id: n4}
   - {type: punctuation, offset: 4388, content: /, id: KR4d0280_WYG_022-bkkpn11}
   - {type: punctuation, offset: 4397, content: ), id: KR4d0280_WYG_022-bkkpn12}
   - {type: 'kr:newline', offset: 4397, content: '
@@ -1343,4 +1347,4 @@ markers:
 
       ', id: KR4d0280_WYG_022-bkkkrnewl323}
   back: []
-hash: sha256:38bcbfa27ce0aa85b5e0963df6931c5dd7b97695061a4ac12a2941342ca11a58
+hash: sha256:12072176c7f19f0624f21cd3ca0d4f1be086b107255918c2f51c6d99601dae75
